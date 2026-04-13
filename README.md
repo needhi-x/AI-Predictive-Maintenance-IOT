@@ -37,7 +37,8 @@ Synthetic sensor dataset simulating:
 ## ▶️ How to Run
 
 '''
-venv\Scripts\activate
+venv\Scripts\activate  
+pip install -r requirements.txt  
 python main.py
 '''
 
@@ -67,3 +68,6 @@ python main.py
 - Use real-time IoT sensor data  
 - Improve accuracy using advanced ML models  
 - Add dashboard for monitoring
+
+## 👩‍💻 Author
+Nidhi Apotikar
