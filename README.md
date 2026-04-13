@@ -36,7 +36,7 @@ Synthetic sensor dataset simulating:
 
 ## ▶️ How to Run
 
-```bash
+'''
 venv\Scripts\activate
 python main.py
 '''
