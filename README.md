@@ -39,6 +39,7 @@ Synthetic sensor dataset simulating:
 ```bash
 venv\Scripts\activate
 python main.py
+'''
 
 ## 🔍 Features
 - Predict machine failure using Machine Learning  
@@ -59,7 +60,7 @@ python main.py
 
 ## 📊 Sample Output
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ## 💡 Future Improvements
 - Deploy as web application (using Flask/Streamlit)  
